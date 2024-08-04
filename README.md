@@ -19,9 +19,13 @@ Exploratory Data Analysis (EDA) was performed using Power Query to identify patt
 Top 5 crimes with an unexpected existence for the Theft of identity crime.
 
 ![image](https://github.com/user-attachments/assets/5692728c-6948-419a-b4f1-f1471c249ccc)
-the Descents data was not accurate and 25% of the data was not initially recorded, a corrective action is recommended be taken to ensure all police officers record the full data to ensure a seamless analysis.
+the Descents data was not accurate and **25% of the data was not initially recorded**, a corrective action is recommended be taken to ensure all police officers record the full data to ensure a seamless analysis.
+
+
 ![image](https://github.com/user-attachments/assets/18d9e708-ae22-4173-8394-45556a7be853)
 Crime Rate Trend: A promising decline in crime rates is observed until Q3 2024.
+![image](https://github.com/user-attachments/assets/5bcdba64-81c1-4533-96d8-e82958ce1163)
+According to the available data, males and females have nearly equal chances of being crime victims. However, please **NOTE** that nearly 25% of the gender data was initially not recorded.
 
 ![image](https://github.com/user-attachments/assets/4a9bd992-dc20-4bca-a42b-a5c83b038c09)
 Data Entry Anomaly: The unusual spike in crime reports at 12:00 PM suggests a high probability of data entry errors requiring corrective measures.
