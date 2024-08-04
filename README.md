@@ -4,7 +4,7 @@
 This project explores and analyzes crime data in Los Angeles from January 2020 to the present (Q2 2024). The primary objectives are to gain insights into crime patterns and investigate correlations between location, gender, ethnicity, and the likelihood of being a crime victim.
 ## Data Collection and Processing:
 ### Data collection:
-Reliable data is crucial for accurate and efficient analysis. Data was collected from the official U.S. government website Data.gov. Please refer to the "Data Source.txt" file for details.
+Reliable data is crucial for accurate and efficient analysis. Data was collected from the official U.S. government data website [here](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). 
 ### Data Processing and Modeling:
 The raw data underwent various cleaning and transformation processes to prepare it for modeling. An effective star schema data model was designed to ensure high report performance. For more details, see the "Data Model" image.
 Exploratory Data Analysis (EDA) was performed using Power Query to identify patterns, relationships, and correlations in the data.
