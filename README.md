@@ -1,4 +1,5 @@
 # Analyzing-Los-Angles-Crimes:
+
 ##Introduction
 This project explores and analyzes crime data in Los Angeles from January 2020 to the present (Q2 2024). The primary objectives are to gain insights into crime patterns and investigate correlations between location, gender, ethnicity, and the likelihood of being a crime victim.
 ## Data Collection and Processing:
