@@ -28,4 +28,5 @@ Crime Rate Trend: A promising decline in crime rates is observed until Q3 2024.
 According to the available data, males and females have nearly equal chances of being crime victims. However, please **NOTE** that nearly 25% of the gender data was initially not recorded.
 
 ![image](https://github.com/user-attachments/assets/4a9bd992-dc20-4bca-a42b-a5c83b038c09)
+
 Data Entry Anomaly: The unusual spike in crime reports at 12:00 PM suggests a high probability of data entry errors requiring corrective measures.
